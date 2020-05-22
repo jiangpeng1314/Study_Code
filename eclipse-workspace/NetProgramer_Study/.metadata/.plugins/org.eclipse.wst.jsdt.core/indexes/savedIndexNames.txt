@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Administrator\eclipse-workspace\NetProgramer_Study\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+113674708.index
+1000224537.index
+2818820474.index
+1139488315.index
+2651215826.index
+3593943060.index

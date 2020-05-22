@@ -1,0 +1,30 @@
+package HUAWEITest;
+
+import java.util.Scanner;
+
+public class Main {
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		String st="";
+		Character target=null;
+		int flag=0;
+		int count=0;
+		while(sc.hasNextLine()) {
+			if(flag==0) {
+				st=sc.nextLine().toLowerCase();
+			}else {
+				target=(sc.nextLine().charAt(0));
+				Character.toLowerCase(target);
+			}
+			flag++;
+		}
+		for (int i = 0; i < st.length(); i++) {
+			if(target==st.charAt(i)) {
+				count++;
+			}
+			
+		}
+		
+		
+	};
+}
