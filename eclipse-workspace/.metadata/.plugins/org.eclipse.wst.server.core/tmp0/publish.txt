@@ -1,0 +1,5 @@
+#Tomcat publish data
+#Wed Mar 18 11:40:30 CST 2020
+org.eclipse.jst.jee.server\:/binary\:C\:\\Software\\maven\\myrepository\\org\\springframework\\spring-web\\4.1.6.RELEASE\\spring-web-4.1.6.RELEASE.jar=WEB-INF/lib/spring-web-4.1.6.RELEASE.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\eclipse-workspace\\login\\WebContent\\WEB-INF\\lib\\log4j-core-2.0-rc1.jar=WEB-INF/lib/log4j-core-2.0-rc1.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Administrator\\eclipse-workspace\\login\\WebContent\\WEB-INF\\lib\\spring-web-4.1.6.RELEASE.jar=WEB-INF/lib/spring-web-4.1.6.RELEASE.jar

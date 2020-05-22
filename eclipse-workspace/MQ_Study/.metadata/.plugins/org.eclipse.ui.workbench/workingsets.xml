@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1585794264865_0" label="Java Main Sources" name="Java Main Sources">
+<item elementID="=generatorSqlmapCustom/src" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
+<workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1585794264880_1" label="Java Test Sources" name="Java Test Sources"/>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1587199823940_3" label="activemq-parent" name="activemq-parent">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-karaf" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-kahadb-store" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-jaas" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-parent-5.9.0" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-pool" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-client" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-log4j-appender" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-spring" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-http" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-web-demo" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-broker" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-fileserver" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-openwire-legacy" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-jdbc-store" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-rar" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-run" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-osgi" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-runtime-config" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-ra" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-itests-spring31" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-camel" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-memtest-maven-plugin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-amqp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-jms-pool" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-perf-maven-plugin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-web" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-mqtt" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-openwire-generator" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-blueprint" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-all" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-karaf-itest" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-stomp" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-maven-plugin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-partition" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-leveldb-store" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-web-console" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/apache-activemq" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-tooling" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-unit-tests" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/activemq-console" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1585794270547_2" label="Window Working Set" name="Aggregate for window 1585794270547"/>
+</workingSetManager>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+  <system systemId="http://code.alibabatech.com/schema/dubbo/dubbo.xsd" uri="file:///D:/study_video/05.%20高级框架阶段【北京尚学堂·百战程序员】/01%20MyBatis3/01%20MyBatis第一天/01%20资料/01%20资料/10%20高级dtd/dtd/dubbo.xsd"/>
+</catalog>

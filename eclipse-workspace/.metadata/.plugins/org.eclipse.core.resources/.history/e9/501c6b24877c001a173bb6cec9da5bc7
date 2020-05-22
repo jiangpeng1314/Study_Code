@@ -1,0 +1,81 @@
+package test;
+
+import java.util.ArrayDeque;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+import java.util.Stack;
+
+import javax.management.Query;
+
+/**
+ * Definition for binary tree public class TreeNode { int val; TreeNode left;
+ * TreeNode right; TreeNode(int x) { val = x; } }
+ */
+
+public class Solution {
+	public ArrayList<ArrayList<Integer>> FindContinuousSequence(int sum) {
+		ArrayList<ArrayList<Integer>> list = new ArrayList<ArrayList<Integer>>();
+		int s = 0;
+		for (int i = 1; i < sum; i++) {
+			s = i;
+			for (int j = i + 1; j < sum; j++) {
+				s += j;
+				if (s == sum) {
+					ArrayList<Integer> li = new ArrayList<Integer>();
+					for (int z = i; z <= j; j++) {
+						li.add(z);
+					}
+					list.add(li);
+					break;
+				}
+				if (s > sum)
+					break;
+			}
+		}
+		return list;
+
+	}
+
+	private void mian() {
+		Solution sl=new Solution();
+		ArrayList<ArrayList<Integer>> findContinuousSequence = sl.FindContinuousSequence(100);
+			System.out.println("result:"+findContinuousSequence.toString());
+	}
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	public class TreeNode {
+		int val = 0;
+		TreeNode left = null;
+		TreeNode right = null;
+
+		public TreeNode(int val) {
+			this.val = val;
+
+		}
+	}
+
+	public class RandomListNode {
+		int label;
+		RandomListNode next = null;
+		RandomListNode random = null;
+
+		RandomListNode(int label) {
+			this.label = label;
+		}
+	}
+
+}

@@ -1,0 +1,12 @@
+<classpath>
+  <container id="menu!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/Administrator/eclipse-workspace/menu/WebContent/WEB-INF/lib/spring-web-4.1.6.RELEASE.jar">
+      <source-attachment-path>D:/study_video/05. 高级框架阶段【北京尚学堂·百战程序员】/02 Spring4/01 Spring第一天/01 资料/01 Spring 官方包及源码/spring-framework-4.1.6.RELEASE</source-attachment-path>
+    </entry>
+  </container>
+  <container id="Spring-03!org.eclipse.jst.j2ee.internal.web.container">
+    <entry id="C:/Users/Administrator/eclipse-workspace/Spring-03/WebContent/WEB-INF/lib/spring-jdbc-4.1.6.RELEASE.jar">
+      <source-attachment-path>D:/study_video/05. 高级框架阶段【北京尚学堂·百战程序员】/02 Spring4/01 Spring第一天/01 资料/01 Spring 官方包及源码/spring-framework-4.1.6.RELEASE</source-attachment-path>
+    </entry>
+  </container>
+</classpath>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>.org.eclipse.jdt.core.external.folders</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>.link1</name>
+			<type>2</type>
+			<location>D:/study_video/05. 高级框架阶段【北京尚学堂·百战程序员】/02 Spring4/01 Spring第一天/01 资料/01 Spring 官方包及源码/spring-framework-4.1.6.RELEASE</location>
+		</link>
+	</linkedResources>
+</projectDescription>
